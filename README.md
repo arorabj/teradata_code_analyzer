@@ -1,0 +1,1 @@
+# teradata_code_analyzer
